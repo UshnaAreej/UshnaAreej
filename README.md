@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/UshnaAreej/UshnaAreej/blob/main/Banner_Profile.png" alt="Banner" style="width:100%" />
+<!--   <img src="https://github.com/UshnaAreej/UshnaAreej/blob/main/Banner_Profile.png" alt="Banner" style="width:100%" /> -->
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ushna Areej</h1>
