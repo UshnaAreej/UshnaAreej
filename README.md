@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ushna Areej</h1>
 <h3 align="center"><strong>A Lifelong Learner and Developer from Pakistan</strong></h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <br>
 
