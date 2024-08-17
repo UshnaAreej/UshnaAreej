@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Ushna Areej</h1>
 <h3 align="center"><strong>A Lifelong Learner and Developer from Pakistan</strong></h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTCNIYd_tNQ5HF3BRTw1CcEE-fX2gmM68bj8lIAZIiLFPKUorhyN2p0uPyC5WIFqBmnc&usqp=CAU">
 
 <br>
 
-- 🔭 I’m currently working on <strong>Web Development Projects</strong>
+- 🔭 I’ve currently worked on <strong>Web Development Projects</strong>
 
 - 🌱 I’m currently learning <strong>Advanced React.js, PHP, and MySQL</strong>
 
@@ -27,12 +27,8 @@
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ushna-areej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushna-areej" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/UshnaAreej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ushna-areej" height="30" width="40" /></a>
-<a href="https://kaggle.com/UshnaAreej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ushna-areej" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ushna.areej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ushna.areej" height="30" width="40" /></a>
-<a href="https://instagram.com/ushna.areej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ushna.areej" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ushnaareej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ushnaareej" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ushna-a-b93588289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushna-areej" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ushnaareej10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ushnaareej" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><strong>Languages and Tools:</strong></h3>
